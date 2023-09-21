@@ -1,4 +1,4 @@
-#Projet Bookeo
+# Projet Bookeo
 ## Installation
 * Vous devez tout d'abord créer un domaine local dans votre fichier hosts, puis modifier votre vhost d'Apache et redémarrer votre serveur.
 * Vous devez ensuite créer une base de données mysql et importer le fichier bdd.sql.
