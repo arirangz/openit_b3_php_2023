@@ -16,6 +16,7 @@ Un prestataire a commencé à mettre en place le site Bookeo en utilisant une st
 La navigation et la connexion sont déjà terminées. Pour les pages en cours, le code HTML a déjà été ajouté dans les différentes pages du dossier templates.
 
 ## Les tâches restantes
+* Terminer l'affichage d'un livre
 * Terminer l'ajout et la modification d'un livre.
 * Terminer l'affichage de la liste des livres (et gérer la pagination).
 * Terminer l'affichage des trois derniers livres sur la page d'accueil.
