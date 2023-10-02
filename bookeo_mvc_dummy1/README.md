@@ -1,11 +1,11 @@
-# Projet Bookeo
+# Projet Bookeo MVC
 ## Installation
 * Vous devez tout d'abord créer un domaine local dans votre fichier hosts, puis modifier votre vhost d'Apache et redémarrer votre serveur.
+* Dans votre dossier, récupérez les sources avec Git ou en les téléchargeant.
 * Vous devez ensuite créer une base de données mysql et importer le fichier bookeo.sql.
 * La base de données contient déjà un jeu de données avec également deux utilisateurs (un administrateur et un utilisateur) :
     * user@test.com, mot de passe : test (à ne pas utiliser sur un site en production :) )
     * admin@test.com, mot de passe : test (à ne pas utiliser sur un site en production :) )
-* Dans votre dossier, récupérez les sources avec Git ou en les téléchargeant.
 * Modifiez le fichier db_config.php en y ajoutant les données de votre base de données.
 * Assurez-vous que le site fonctionne en local.
 
